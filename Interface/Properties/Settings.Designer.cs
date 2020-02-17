@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ARR.Properties
+namespace Interface.Properties
 {
 
 
