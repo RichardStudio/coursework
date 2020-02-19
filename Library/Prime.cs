@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lib
+namespace Library
 {
     public class Prime
     {
@@ -12,7 +12,7 @@ namespace Lib
         private readonly List<int> _primes;
 
         /// <summary>
-        /// Инициализирует новый экземпляр <see cref="Lib.Prime"/>
+        /// Инициализирует новый экземпляр <see cref="Library.Prime"/>
         /// </summary>
         public Prime()
         {
